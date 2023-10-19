@@ -1,0 +1,12 @@
+C:\Users\dilshan\source\repos\sAA\sAA\bin\Debug\sAA.exe.config
+C:\Users\dilshan\source\repos\sAA\sAA\bin\Debug\sAA.exe
+C:\Users\dilshan\source\repos\sAA\sAA\bin\Debug\sAA.pdb
+C:\Users\dilshan\source\repos\sAA\sAA\obj\Debug\sAA.csproj.AssemblyReference.cache
+C:\Users\dilshan\source\repos\sAA\sAA\obj\Debug\sAA.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilshan\source\repos\sAA\sAA\obj\Debug\sAA.Form1.resources
+C:\Users\dilshan\source\repos\sAA\sAA\obj\Debug\sAA.Properties.Resources.resources
+C:\Users\dilshan\source\repos\sAA\sAA\obj\Debug\sAA.csproj.GenerateResource.cache
+C:\Users\dilshan\source\repos\sAA\sAA\obj\Debug\sAA.csproj.CoreCompileInputs.cache
+C:\Users\dilshan\source\repos\sAA\sAA\obj\Debug\sAA.exe
+C:\Users\dilshan\source\repos\sAA\sAA\obj\Debug\sAA.pdb
+C:\Users\dilshan\source\repos\sAA\sAA\obj\Debug\sAA.Student_Registrarion.resources
